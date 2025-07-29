@@ -1,4 +1,4 @@
-# Salaries Differences
+# Calculate The Difference Between The Highest Salaries In Two Departments
 
 https://platform.stratascratch.com/coding/10308-salaries-differences?code_type=3
 ## Solution
