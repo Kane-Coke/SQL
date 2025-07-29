@@ -37,4 +37,4 @@ select max(salary) as engineersalary from db_employee where department_id = 4
   select max(salary) as marketingsalary from db_employee where department_id = 1
   )as b
   
-These are the two subqueries used for the main query so that we could calculate the difference between the two
+These are the two subqueries used for the main query so that we could calculate the difference between the two salaries
